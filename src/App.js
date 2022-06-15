@@ -18,7 +18,7 @@ const App = () => {
 	// Users context
 	const usersContext = {
 		nounours:nounours
-	};
+	}; 
 
 	// Return
 	return(
